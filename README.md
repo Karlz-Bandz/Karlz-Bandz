@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Karol</h1>
 <h3>A passionate Java and Angular developer</h3>
-<br><br>
+<br>
 
 
 - 🔭 I’m currently working on [HairApp2](https://hairbybieszczii.pl)
@@ -8,6 +8,8 @@
 - 💬 Ask me about **Java, Spring Boot, Angular**
 
 - 📫 How to reach me **karol2646@gmail.com**
+
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
