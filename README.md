@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Karol</h1>
 <h3 align="center">A passionate Java and Angular developer</h3>
-
+<br><br>
 
 
 - 🔭 I’m currently working on [HairApp2](https://hairbybieszczii.pl)
