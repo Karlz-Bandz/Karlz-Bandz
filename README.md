@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karol</h1>
 <h3 align="center">A passionate Java and Angular developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karlz-bandz&label=Profile%20views&color=0e75b6&style=flat" alt="karlz-bandz" /> </p>
+
 
 - 🔭 I’m currently working on [HairApp2](https://hairbybieszczii.pl)
 
