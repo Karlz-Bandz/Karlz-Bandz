@@ -3,7 +3,7 @@
 <br>
 
 
-- 🔭 I’m currently working on [HairApp2](https://hairbybieszczii.pl)
+- 🔭 I’m currently working in SoftServe
 
 - 💬 Ask me about **Java, Spring Boot, Angular**
 
