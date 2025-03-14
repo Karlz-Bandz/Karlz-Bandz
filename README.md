@@ -2,9 +2,6 @@
 <h3>A passionate Java and Angular developer</h3>
 <br>
 
-
-- 🔭 I’m currently working in SoftServe
-
 - 💬 Ask me about **Java, Spring Boot, Angular**
 
 - 📫 How to reach me **karol2646@gmail.com**
